@@ -1,2 +1,2 @@
-# Tarea_Pirxy
+# Tarea_Proxy
 Laboratorio proxy
